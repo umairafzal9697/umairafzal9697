@@ -6,7 +6,7 @@ Android Developer
 
 A software developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.
 
-* 🌍  I'm based in Lahore, Pakistant
+* 🌍  I'm based in Brno, Czechia
 * ✉️  You can contact me at [umair.afzal9697@gmail.com](mailto:umair.afzal9697@gmail.com)
 * 🧠  I'm learning JetPack Compose
 * 🤝  I'm open to collaborating on Native Android Projects
